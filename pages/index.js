@@ -28,6 +28,10 @@ export default function Home() {
               <td></td>
             </tr>
             <tr>
+              <td>/api/shangfen</td>
+              <td></td>
+            </tr>
+            <tr>
               <td>/api/image?birth=1991-06-21&lineColor=red</td>
               <td>birth, lineColor, boxWidth, boxHeight, total</td>
             </tr>
