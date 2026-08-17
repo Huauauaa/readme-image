@@ -35,6 +35,10 @@ export default function Home() {
               <td>/api/image?birth=1991-06-21&lineColor=red</td>
               <td>birth, lineColor, boxWidth, boxHeight, total</td>
             </tr>
+            <tr>
+              <td>/shot</td>
+              <td>three.js 6s vertical shot demo</td>
+            </tr>
           </tbody>
         </Table>
       </main>
