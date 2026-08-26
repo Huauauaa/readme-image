@@ -1,0 +1,3 @@
+# Bauhaus pastel portrait poster
+
+Turn each uploaded photo into a 3:4 design poster. Top half: original photo with editorial grading. Bottom half: lighthearted, naive, vintage hand-drawn illustration. The style mixes Bauhaus composition, children's books, and fashion sketches. Shapes are simplified with slight proportion exaggerations for humor. Uses a high-brightness, low-saturation pastel palette with watercolor, pencil, and crayon textures. Features large white space and 'imperfect' printed edges. Typography uses vintage hand-written styles and restrained fonts that blend into the illustration. The vibe is playful, chic, and romantic.

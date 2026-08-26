@@ -1,0 +1,17 @@
+# Photo + doodle editorial poster
+
+Please transform each photo I upload into an independent, high-end design poster, no multi-image stitching, output each photo individually. Use a 3:4 vertical composition, with the top and bottom areas strictly 1:1 in height, each occupying 50% of the screen.
+
+The upper part preserves the original photo, maintaining the main structure, real texture, natural light, and original color atmosphere, with only slight professional photographic color grading to give it a lifestyle magazine, independent publication, or art photography feel. The environment/background can be naturally extended to fit the frame, but do not stretch, distort, or change the subject.
+
+The lower part first understands the true **visual core and meaning** of the original image: determining what is most important isn't 'what is there', but 'what is most worth remembering'—possibly a subject, an action, a relationship, a contrast, an emotional moment, or a symbolic meaning. Extract the most recognizable **subject, outline, posture, and narrative clues**, and reconstruct them into a fun editorial poster featuring 'the real subject + black-line doodle figures'. Do not mechanically crop the largest object; instead, retain visual anchors that best represent the spirit and storytelling of the photo, making the lower part both recognizable and a clever secondary interpretation.
+
+The real subject maintains material and identity characteristics, with moderate optimization of angles, proportions, light, and color to make core features more prominent; information unrelated to the meaning can be discarded, but key relationships supporting the theme must be kept. Add a few minimalist black-line doodle figures around the subject. The figures' actions, positions, and interaction methods are generated naturally based on the original image's form, context, and potential meaning, making them seem to respond to, amplify, or subvert the photo's original story rather than just making random movements.
+
+The color palette is extracted from the most recognizable colors in the photo above, with moderate purification and reorganization. The background is mainly off-white or the most comfortable light color from the original image, maintaining plenty of white space; the real subject carries the main color, while figures and text contrast in black or dark gray fine lines, keeping the whole thing clean, light, and restrained.
+
+Text likewise grows naturally from the **core meaning, emotion, and visual relationship** of the original image, without directly naming objects or using fixed templates. Translate the most memorable meaning into extremely short, relaxed, clever, and slightly humorous or punny handwritten text, like a note or a thought left by the doodle figure. Text can be arranged freely along subject contours, character actions, or blank space rhythms, completing the narrative with the figures and subject rather than being a late-applied title.
+
+Maintain a balance between **real subjects, core meanings, micro-narratives, naive lines, and large white space**. Whether the original is a person, animal, plant, food, building, object, vehicle, or natural scene, first grasp 'what this photo is really about' before deciding how to reconstruct it, avoiding just capturing objects without relationships, doing cute interactions without a theme, a cartoon sticker feel, complex decoration, or a template feel.
+
+Language: {argument name="language" default="english"}
