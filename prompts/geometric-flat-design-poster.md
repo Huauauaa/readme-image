@@ -1,0 +1,9 @@
+# Geometric flat design poster
+
+Transform each uploaded photo into a standalone high-end design poster. Use a 3:4 vertical composition split 1:1 into two sections. The top half retains the original photo with high-end color grading to give it an art magazine or exhibition feel. The bottom half extracts the most recognizable {argument name="core elements" default="subject, silhouette, structure, pose, and narrative"} and reconstructs them into a {argument name="art style" default="geometric and flat"} artistic expression. Use simple shapes, flat blocks, clean outlines, and white space, compressing complex info into key visual elements that remain recognizable as the subject above. The composition of the lower half should emphasize order, visual weight, and balance. Use off-white or light matching backgrounds with ample white space. Colors should be extracted from the photo and transformed into a {argument name="color mood" default="humanistic and healing"} palette—bright, pure, soft, and warm. Add minimal text for titles or annotations in a refined editorial style. The overall look should be sophisticated, modern, and elegant, avoiding cheap filters or cartoonish effects.
+
+## Generation notes
+
+- Aspect ratio: 3:4
+- Reference example: `assets/landscape.jpeg`
+- Output example: `assets/landscape-poster.png`
